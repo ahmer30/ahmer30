@@ -1,112 +1,214 @@
-# Hi there, I'm Ahmer Sultan 👋
+````md
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
+
+<h1 align="center">
+  Hi 👋, I'm Ahmer Sultan
+</h1>
+
+<h3 align="center">
+  Computer Science Student | Tech Enthusiast | Future Software Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Namal+University+Mianwali;C%2B%2B+%7C+Assembly+%7C+SQL;Technology+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Namal+University+Mianwali;C%2B%2B+%7C+Assembly+%7C+SQL;Problem+Solver+%26+Technology+Enthusiast;Learning+Something+New+Every+Day" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 Computer Science student at **Namal University, Mianwali**
-- 💡 Passionate about technology, software development, and problem-solving
-- 🌱 Continuously learning new concepts and improving technical skills
-- 🤝 Interested in teamwork, collaboration, and project management
-- 🎯 Focused on building a strong foundation in software engineering and system design
-- 🚀 Exploring different areas of computer science step by step
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-- **C++**
-  - Fundamentals
-  - Object-Oriented Programming (OOP)
-  - Data Structures & Algorithms
-
-- **Assembly Language**
-  - Basic low-level programming concepts
-  - Computer architecture understanding
-
-- **SQL / MySQL**
-  - Beginner-level database design
-  - Queries and relational database concepts
-
----
-
-### 🌐 Other Areas
-- Web Development Basics
-- Software Engineering Fundamentals
-- Problem Solving
-- Team Collaboration
-- Project Management Basics
-
----
-
-## 📚 Currently Learning
-
-- Advanced Data Structures
-- Database Systems
-- Computer Architecture
-- Software Design Principles
-- Backend Development Concepts
-
----
-
-## 🌍 Languages
-
-- English
-- Urdu
-
----
-
-## ⚡ Interests
-
-- Technology & Innovation
-- Software Development
-- System Design
-- Learning Emerging Technologies
-- Building Practical Projects
-
----
-
-## 📈 GitHub Stats
+<!-- ========================= -->
+<!--       PROFILE VIEWS       -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmerSultan&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmerSultan&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://komarev.com/ghpvc/?username=AhmerSultan&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+<!-- ========================= -->
+<!--        ABOUT ME           -->
+<!-- ========================= -->
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Problem_Solving-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
+# 🧑‍💻 About Me
+
+```cpp
+class AhmerSultan {
+
+    string university = "Namal University, Mianwali";
+    string degree = "Bachelor of Computer Science";
+
+    vector<string> technicalSkills = {
+        "C++ Fundamentals",
+        "Object Oriented Programming",
+        "Data Structures",
+        "Assembly Language",
+        "SQL / MySQL",
+        "Software Engineering Basics",
+        "Web Development Basics"
+    };
+
+    vector<string> softSkills = {
+        "Problem Solving",
+        "Project Management",
+        "Team Collaboration",
+        "Communication",
+        "Fast Learning"
+    };
+
+    vector<string> languages = {
+        "English",
+        "Urdu"
+    };
+
+    string currentGoal =
+        "Becoming a well-rounded software engineer";
+};
+````
 
 ---
 
-## 📫 Connect With Me
+<!-- ========================= -->
 
-<p align="left">
-  <a href="mailto:ahmersultan308@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<!--        TECH STACK         -->
 
----
+<!-- ========================= -->
+
+# ⚡ Tech Stack
 
 <p align="center">
-  <i>"The journey of a thousand miles begins with a single step."</i>
+
+<img src="https://skillicons.dev/icons?i=cpp,mysql,html,css,git,github,vscode" />
+
 </p>
+
+---
+
+<!-- ========================= -->
+
+<!--        SKILLS             -->
+
+<!-- ========================= -->
+
+# 🛠️ Skills & Knowledge
+
+## 💻 Programming
+
+* C++
+
+  * Fundamentals
+  * OOP
+  * Data Structures
+
+* Assembly Language
+
+  * Basic Low-Level Programming
+  * Computer Architecture Concepts
+
+* SQL / MySQL
+
+  * Beginner-Level Database Design
+  * Queries & Relational Concepts
+
+---
+
+## 🌐 Other Technical Areas
+
+* Web Development Basics
+* Software Engineering Fundamentals
+* Problem Solving
+* System Thinking
+
+---
+
+## 🤝 Professional Skills
+
+* Teamwork & Collaboration
+* Project Management Basics
+* Continuous Learning
+* Communication Skills
+
+---
+
+<!-- ========================= -->
+
+<!--      CURRENT FOCUS        -->
+
+<!-- ========================= -->
+
+# 🎯 Currently Learning
+
+* Advanced Data Structures
+* Database Systems
+* Computer Architecture
+* Software Design Principles
+* Backend Development Concepts
+
+---
+
+<!-- ========================= -->
+
+<!--       GITHUB STATS        -->
+
+<!-- ========================= -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmerSultan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmerSultan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<!-- ========================= -->
+
+<!--      CONTRIBUTION         -->
+
+<!-- ========================= -->
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AhmerSultan&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ========================= -->
+
+<!--        TROPHIES           -->
+
+<!-- ========================= -->
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmerSultan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<!-- ========================= -->
+
+<!--      ACTIVITY GRAPH       -->
+
+<!-- ========================= -->
+
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmerSultan&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<!-- ========================= -->
+
+<!--        LANGUAGES          -->
+
+<!-- =================
