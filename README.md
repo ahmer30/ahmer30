@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ahmer Sultan
 
-### Computer Science Student • Tech Enthusiast • Future Software Engineer
+### Computer Science Student • Tech Enthusiast 
 
 ---
 
